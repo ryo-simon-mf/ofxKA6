@@ -4,6 +4,11 @@ addon of Komplete Audio 6 mk2(Native Instruments) for openFrameworks
 
 ![thumbnail](https://raw.githubusercontent.com/ryo-simon-mf/ofxKA6/main/ofxaddons_thumbnail.png)
 
+## Version
+- of_v0.11.0
+- VisualStudio2017
+
+
 ## Dependency
 - ofxFft
 
